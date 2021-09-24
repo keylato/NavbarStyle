@@ -1,0 +1,35 @@
+.navbar >ul{
+    border: 1em;
+    height: 3em;
+    background-color:pink;
+    list-style-type: none;
+}
+.navbar >ul >li >a{
+    
+    color: darkmagenta;
+   
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    padding-left: 1em;
+    top: 0em;
+    width: 9em;
+    font-weight: bold;
+    position: absolute;
+    padding-right: 10px;
+    line-height: 77px;
+}
+ .navbar .navbar-link.padding {
+    padding-left: 8em;
+    top: 0em;
+    width: 9em;
+    position: absolute;
+        
+}
+
+.navbar .navbar-link.margin {
+    padding-left: 17em;
+    top: 0em;
+    width: 9em;
+    position:absolute;
+}
